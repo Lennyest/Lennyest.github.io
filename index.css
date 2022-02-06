@@ -1,4 +1,8 @@
 
+body {
+    object-fit: fill;
+}
+
 video {
     object-fit: fill;
 }
