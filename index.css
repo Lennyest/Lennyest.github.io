@@ -1,8 +1,4 @@
-
-body {
-    object-fit: fill;
-}
-
+html, body {margin: 0; height: 100%; overflow: hidden}
 video {
     object-fit: fill;
 }
